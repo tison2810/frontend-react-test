@@ -28,10 +28,10 @@ export default function BarChart() {
   return (
     <div>
       <PageMeta
-        title="Chart"
-        description="This is React.js Chart Dashboard page for TailAdmin - React.js Tailwind CSS Admin Dashboard Template"
+        title="Report Chart"
+        description=""
       />
-      <PageBreadcrumb pageTitle="Bar Chart" />
+      <PageBreadcrumb pageTitle="Report Chart" />
       <div className="space-y-6">
         {Object.entries(data).map(([subject, levels]) => (
             <ComponentCard

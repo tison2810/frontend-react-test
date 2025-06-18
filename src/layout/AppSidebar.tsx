@@ -63,7 +63,7 @@ const navItems: NavItem[] = [
     // name: "Charts",
     // subItems: [
     //   { name: "Line Chart", path: "/line-chart", pro: false },
-    name: "Bar Chart", 
+    name: "Report Chart", 
     path: "/bar-chart"
   },
 //   {
